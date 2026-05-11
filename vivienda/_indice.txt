@@ -1,0 +1,16 @@
+# Vivienda
+13 gráficos
+
+001. Incremento del precio de la vivienda en la Unión Europea ajustado al crecimiento de los salarios 2015-2024  150
+002. Variación del gasto público sobre el PIB por funciones. 2014-2024  Vivienda y urbanismo 0.02% 001%  24  Defensa
+003. Variación del gasto público sobre el PIB por funciones. 2004-2024  Vivienda y urbanismo 032% Defensa 018%  24
+004. Variación del gasto público en términos reales por funciones. 2009-2024  Vivienda y urbanismo. -11.064 Defensa 5  024
+005. Evolución del gasto público en términos reales por funciones. 1995-2024 750  e * Vivienda y urbanismo 662  en mea  es de euros  "Defensa
+006. Crecimiento del salario medio y el precio de la vivienda en términos reales Índice. 172018 = 100  130  128 | — —e-Costesalarial por trabajad
+007. El desacople entre los precios reales de la vivienda y los salarios de los jóvenes es relativamente reciente  120 118  118  Entrada en vigor
+008. Hogares con propiedad de vivienda. Por edad. 2004 a 2024  De 16 a 29 años ——-De 30 a 44 años ——De 45 a 64 años ——- 65 y más años
+009. El desacople entre los precios reales de la vivienda y los salarios de los jóvenes es relativamente reciente  120 118  118 y)
+010. Índice de Precios de Vivienda. Por CCAA. Base 112007 140  Islas Baleares 430 E Andalucía
+011. Índice de Precios de Vivienda. Por CCAA Base 172007. Euros constantes  105
+012. Porcentaje de hogares poseedores de propiedad inmobiliaria  100 Jubilado - Primera vivienda
+013. Crecimiento de viviendas y de población  6.000.000 - 1,00

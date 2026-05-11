@@ -1,0 +1,49 @@
+# Salarios y empleo
+46 gráficos
+
+001. Variación del coste salarial en términos reales 312018 vs 372025  ATIMA  — 2ATINMR
+002. Crecimiento de los diferentes componentes del salario medio en términos reales Índice. 1T2018 = 100  120,0 + j
+003. Evolución del salario medio bruto anual ajustado a la inflación entre 1964 y 2024 en España  32.000  20.000 ——EPA(INE) LL
+004. Estima  n de la distribución de salario mensual entre asalariados y pensionistas. 2026 m<1.000€ =1.000€-2.000€ =2.000€-3.000€ => 3.000€  100
+005. PIB por trabajador - Remuneración laboral - Salario neto
+006. Evolución del coste laboral y el salario neto respecto del salario bruto 1,5%  1,0% yO  1%  A ÍÑ?
+007. Evolución del salario medio en términos reales Índice. Salario 2018T2 = 100  105
+008. 60.000€ salary in Europe: NET over TOTAL (labor cost) per country  Italy 40,7% Slovenia 40,8% France 41,4%  45,5%
+009. Coste laboral y salario neto de distintos salarios brutos en España. 2025  120.000€ 118.894€ 80% 70.8% 108.894 € nor un  110.000€
+010. Incremento del salario desde el Salario Mi 10.000  9.750  9.500  9.250  9.000  dad oste laboral  10 Interprofesional
+011. Horas efectivas medias trabajadas por ocupado 2.300  2290 O xa Y  Y,  NN
+012. Evolución horas efectivas trabajadas por ocupado en España  428 426  426
+013. Evolución del empleo en España  114 111,9 112
+014. Evolución del salario medio en términos reales Evolución del salario medio en términos reales Euros constantes de 2024 Índice. Salario 2008
+015. Evolución del salario medio en términos reales Evolución del salario medio en términos reales Euros constantes de 2024 Índice. Salario 2014
+016. PIB 472019 a 1T2025: +8% EVOLUCIÓN DEL PIB PER CÁPITA Y POR OCUPADO (4T2019=100)  |. Descontando el incremento de la población...
+017. Productividad del trabajo por ocupado. España  75.000 ]  País Vasco + Navarra Rioja + CyL + Cantabria  73.000 | ——— Andalucía + Extremadura
+018. Productividad por ocupado UE  Euros/hora (Euros constantes 2020)  110000 105000 ]
+019. Empleados públicos sobre el total y % Gasto salarios públicos sobre PIB Nivel 100 = Media OCDE
+020. Evolución de las horas pagadas y las horas efectivas Índice 100 = 2008T4  102 7
+021. Horas no trabajadas por trabajador en los últimos 12 meses por Incapacidad Temporal  100
+022. Crecimientos de los salarios brutos y el resto de costes laborales en términos reales Índice. 172018 = 100  ñ  110 ;  Coste salarial por tra
+023. Cambio acumulado en salario medio real por nivel de renta  20% 16,5%
+024. Variación del peso de los grupos de edad entre los ocupados  Variación en puntos porcentuales sobre el total de ocupados entre 2008 y 2023
+025. Evolución del salario medio por grupos de edad en términos reales Salario medio en euros de 2023 por grupos de edad entre 2008 y 2023
+026. Evolución del salario medio por CCAA en términos reales Salario medio en euros de 2023 por Comunidades Autónomas entre 2008 y 2023  IM Media
+027. Evolución del salario mediano por CCAA en términos reales Salario mediano en euros de 2023 por Comunidades Autónomas entre 2008 y 2023  IM M
+028. 125  Crecimiento de distintos estadísticos del salario en términos reales
+029. Horas no trabajadas por trabajador/12 meses  0 pos
+030. Tasa de paro por edad y nacionalidad  20% ]  Donidianiicnn Cid:
+031. Tasa de paro países UE. 2018-03 a 2025-03 IM Mecia UE [Grecia España [Croacia [italia [A Chipre [Mi Malta [Y Portugal  2025-03 2018-03 Greci
+032. Diferencia de poder adquisitivo del salario medio a jornada completa de los países respecto a España descompuesto por factores 180% || Resto
+033. Coste laboral de 30.000€ de salario neto en distintos países Salarios ajustados a paridad de poder adquisitivo con 1€ en España  1 Salario n
+034. Parados registrados (SEPE) vs Paro EPA (INE)  500.000 Ca Damn Dacictrada (CEDE Eah9EY
+035. Incremento del salario desde el Salario Mínimo Interprofesional  Sa ]
+036. Tasa de los que no están en subempleo  Medicina Enfermería Odontología  Óptica y optometría o
+037. Desglose del coste laboral para un sueldo neto de 27.000€/$ 46.133 Cotizaciones empleador  50.000 ] o A
+038. Variación anual número de ocupados España Miles de personas  800 + 749
+039. Percentiles de distibución del salario bruto en España. Encuesta de Estructura Salarial (2022) 110.000€  ANO
+040. Salario bruto equivalente a Jornada Completa. Empleados Públicos. 2022 Distribución por deciles de salario bruto equivalente a jornada compl
+041. Porcentaje de trabajadores menores de 39 años con un salario bruto superior al dado  100.0% + 97,5% | 95.0% 92,5% 90,0% 87.5%
+042. Porcentaje de trabajadores mayores de 39 años con un salario bruto superior al dado  100,0% 97,5% 95.0% 92,5% 90.0% 875%
+043. ¿Cuánto le cuesta a una empresa incrementar en 1€ el salario neto de su trabajador en 2025  450€ 420€  400€ 1
+044. ¿Cuánto le cuesta a una empresa incrementar en 1€ el salario neto de su trabajador en 2025? Por percentiles de distibución del salario bruto
+045. Coste laboral total por tramos de salario bruto. 2025  salarioneto Coste laboral  100.000 €  98.894 € 93.894 €  o sesoe
+046. Coste laboral total por tramos de salario bruto. 2025 100.00 €  90.900 €
