@@ -1,0 +1,38 @@
+# Demografía y migración
+35 gráficos
+
+001. Variación de la población residente en España por país de nacimiento entre el 1 de enero de 2022 v el 1 de enero de 2025 1.000.000  » España
+002. Variación de la población residente en España por país de nacimiento entre el 1 de enero de 2022 y el 1 de enero de 2025  50.000 1
+003. Variación de la población residente en España por país de nacimiento entre el 1 de enero de 2022 y el 1 de enero de 2025  420.000 400.000 38
+004. Total population change in EU countries from 1 january 2022 to 1 january 2025  1.600.000  1.400.000
+005. Comparativa Estimación situación demográfica en España al final de 2050 vs 2024  Nacido en España. 2 padres nacidos en España. +  Gen. 2.5-
+006. 825000 800.000 775000 760.900 725.000  'aNacido en España. 2 padres nacidos en España  Estimación situación demográfica en España al final d
+007. Población residente en España 2024 y proyección de 2070 4.400 4.100  4.200 4.000 1 3.567  Y
+008. Personas extranjeras en España según nacionalidad y lugar de nacimiento  11.000.000
+009. Proporción detenciones hombres según lugar de nacimiento Proporción sobre el total de hombres residentes de entre 15 y 39 años y sobre las d
+010. Incidencia detenciones hombres según lugar de nacimiento Incidencia investigaciones hombres según lugar de nacimiento Detenciones por infrac
+011. Incidencia investigaciones según lugar de nacimiento Investigaciones por infracciones penales cometidas en el País Vasco entre enero y septi
+012. Incidencia detenciones según lugar de nacimiento Detenciones por infracciones penales cometidas en el País Vasco entre enero y septiembre de
+013. Situación demográfica en España al final de 2024 875.000  850.000 825.000 - '' Gen. 1 - Nacido en el extranjero 800.000  290099 Lenz Nacido
+014. Variación 2018-2025 de la población en edad de trabajar  Incremento de población nacida en el extranjero o españa sobre el total de 2018 16%
+015. Personas nacidas en el extranjero sobre la población en edad de trabajar  Baleares  Cataluña
+016. Renta relativa de los mayores de 65 sobre la población en edad de trabajar en la UE  Renta neta mediana equivalente de las personas mayores
+017. Saldo neto migración interna 25-34. 2023  Inmigración interautonómica a la CCAA de destino menos emigración interautonómica desde la comunid
+018. Porcentaje de nacimientos por país de nacimiento de la madre. 2023  Jaén Badajoz Córdoba Cáceres Cádiz sevilla Palencia
+019. Nivel educativo de grupos de población en España. 2024  Mm Educaciónterciaria o universitaria (niveles 5-8)  Educación secundaria superior y
+020. Tasa empleo principales nacionalidades extranjeras (16 a 64 años) 100%  sl
+021. % de la población residente en España entre 25 y 54 años sobre el total. 1 de abril de 2025  Nacida en España — * Nacida en el extranjero —
+022. Tasa de población nacida en el extranjero por grupos de edad  "Total Nacional  29%  Andalucía  ra  Aragón  25%  os  Asturias  25%  Baleares
+023. Variación de la tasa de población entre 25 y 54 años nacida en el extranjero  Comparación del % de personas nacidas en el extranjero en el r
+024. Tasa de población entre 25 y 54 años nacida en el extranjero  Girona 40.0% Leida 39.0% Islas Baleares 38.7% Barcelona 38,6% Madrid 36,8% 26.
+025. Tasa de población entre 25 y 54 años nacida en el extranjero  Islas Baleares 38,7%  Cataluña 38,4%
+026. Número de nacimientos anuales en España  750.000 Generación del | babv boom
+027. Nacimientos de madre nacida en el extranjero. Cataluña  50%
+028. Población por edad y país de nacimiento. Cataluña "Españoles m Extranjeros
+029. Población por edad y país de nacimiento. Madrid "Españoles m Extranjeros  Deoazaños IPP More
+030. Población por sexo, edad y país de nacimiento. España  Hombres nacidos en España N Mujeres nacidas en españa 5 Hombres nacidos en españa de
+031. Población por sexo, edad y país de nacimiento. País Vasco  Hombres nacidos en España 1 Hombres nacidos en españa de madre nacida en el extra
+032. Población por sexo, edad y país de nacimiento. España E Hombres nacidos en España Mujeres nacidas en españa = Hombres nacidos en españa de m
+033. Población por sexo, edad y país de nacimiento. País Vasco  Hombres nacidos en España Mujeres nacidas en españa = Hombres nacidos en españa d
+034. Distribución de población total y con ingresos superiores a 30.000€  A A PB o oo
+035. Variación % población entre 2712018 y 272024. Por país de nacimiento  mEspaña mExtranjero
